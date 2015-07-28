@@ -3,5 +3,3 @@
 
 Zeile1: direkt im Finder erstellte Datei
 Zeile2: nach dem ersten Commit
-
-20150728, Zeile 1
